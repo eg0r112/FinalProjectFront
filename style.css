@@ -44,3 +44,51 @@ body {
 .MainLinkstxt {
     font-size: 20px;
 }
+#HeroBlocks {
+    width: 100%-80px;
+    height: 584px;
+    margin: 60px 80px 60px 80px;
+    background-color: #2A254B;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#RightImage {
+    position: relative;
+}
+#TopContentTxT {
+    color: #FFFFFF;
+    font-size: 32px;
+}
+#TopContentBut {
+    position: relative;
+    color: #FFFFFF;
+    width: 199px;
+    height: 60px;
+    background-color: #F9F9F926;
+    Padding: 16px 32px 16px 32px;
+    top: 30px;
+    font-size: 20px;
+}
+#uguuuu {
+    width: 513px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#TopContent {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 674px;
+    height: 191px;
+    top: 60px;
+    left: 60px;
+}
+#HeroBlocksTxT {
+    position: relative;
+    top: 250px;
+    color: #FFFFFF;
+    font-size: 20px;
+}
