@@ -100,12 +100,26 @@ body {
 #Listings {
     width: 100%-80px;
     height: 641px;
+    /* height: 1091px; */
     margin: 60px 80px 60px 80px;
 }
 #ListingsList {
     position: relative;
     top: 40px;
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    right: 8px;
+}
+.ListingsListObjimg {
+    width: 305px;
+    height: 375px;
+}
+#ListingsList2 {
+    position: relative;
+    top: 60px;
+    display: flex;
+    display: none;
     flex-direction: row;
     justify-content: space-between;
     right: 8px;

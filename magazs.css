@@ -127,3 +127,112 @@ body {
     bottom: 108px;
     right: 135px;
 }
+#Osn {
+    width: 100%;
+    height: 1070px;
+}
+#Tow {
+    position: relative;
+    width: 390px;
+    height: 380px;
+}
+.aga {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+#TxTenoz {
+    width: 100%-24px;
+    padding: 30px 24px 30px 24px;
+}
+.P24 {
+    font-size: 24px;
+}
+#TOpis {
+    position: relative;
+    width: 250px;
+}
+#TCena {
+    width: 250px;
+    position: relative;
+    top: 20px;
+}
+#TOpis1 {
+    position: relative;
+    top: 80px;
+}
+#TOpis2 {
+    font-size: 16px;
+    position: relative;
+    top: 90px;
+}
+#TOpis3 {
+    position: relative;
+    top: 110px;
+}
+#THar {
+    position: relative;
+    top: 130px;
+    width: 324px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+}
+#THarC {
+    position: relative;
+    top: 140px;
+    width: 324px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+}
+#TOpis4 {
+    position: relative;
+    top: 260px;
+}
+#quantityy {
+    position: relative;
+    width: 122px;
+    height: 52px;
+    top: 270px;
+    padding: 12px 16px 12px 16px;
+    padding-left: 40px;
+}
+#Plus {
+    width: 50px;
+    position: relative;
+    top: 230px;
+    left: 85px;
+}
+#Minus {
+    position: relative;
+    top: 200px;
+}
+#AddTow {
+    position: relative;
+    top: 230px;
+    font-size: 20px;
+    background-color: #2A254B;
+    color: #FFFFFF;
+    width: 163px;
+    height: 60px;
+}
+#Favorit {
+    position: relative;
+    top: 230px;
+    font-size: 20px;
+    width: 213px;
+    height: 60px;
+}
