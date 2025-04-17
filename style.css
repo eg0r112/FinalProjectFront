@@ -30,8 +30,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
 }
-#SideActions
-{
+#SideActions {
     position: relative;
     display: flex;
     flex-direction: row;
@@ -40,6 +39,9 @@ body {
     right: 80px;
     width: 80px;
     height: 16px;
+}
+#menuuu {
+    display: none;
 }
 .MainLinkstxt {
     font-size: 20px;
@@ -242,6 +244,7 @@ body {
     position: relative;
     top: 10px;
     left: 5px;
+    color: #FFFFFF;
 }
 #EmailBut {
     width: 131px;
@@ -250,4 +253,17 @@ body {
     font-size: 20px;
     position: relative;
     top: 10px;
+}
+#FooterDownImg {
+    position: relative;
+    bottom: 10px;
+    width: 264px;
+    height: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#FooterDownTxT {
+    position: relative;
+    bottom: 10px;
 }

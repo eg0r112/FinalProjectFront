@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+#TopNav {
+    width: 100%-24px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 24px 0px 24px;
+}
+#Avion {
+    position: relative;
+    top: 20px;
+    width: 50px;
+    height: 28px;
+    font-size: 20px;
+}
+#MainLinks {
+    display: none;
+}
+/* #SideActions {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top: 27px;
+    width: 124px;
+    height: 16px;
+} */
