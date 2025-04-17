@@ -72,6 +72,9 @@ body {
     top: 30px;
     font-size: 20px;
 }
+#ListingsList1 {
+    display: none;
+}
 #uguuuu {
     width: 513px;
     display: flex;
