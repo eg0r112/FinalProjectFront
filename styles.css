@@ -17,6 +17,21 @@ body {
     justify-content: space-between;
     margin: 0px 24px 0px 24px;
 }
+#Dop {
+    position: absolute;
+    width: 100px;
+    height: 200px;
+    background-color: #cacaca80;
+    z-index: 2;
+    right: 20px;
+    top: 50px;
+    border-radius: 10px;
+    display: none;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
 #Avion {
     position: relative;
     top: 20px;
